@@ -22,7 +22,7 @@ class App extends Component {
 
     deleteItem = (id) => {
         this.setState(({data}) => {      
-            return {
+            return{
                 data: data.filter(item => item.id !== id)
             }
         })
