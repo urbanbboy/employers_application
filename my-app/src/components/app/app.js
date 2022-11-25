@@ -16,6 +16,7 @@ class App extends Component {
                 {name: 'John S.', salary: 800, increase: false, id: 1},
                 {name: 'Alex D.', salary: 3000, increase: true, id: 2}, 
                 {name: 'Talant A.', salary: 4000, increase: false, id: 3}, 
+                {name: 'David B.', salary: 4000, increase: false, id: 4} 
             ]
         }
     }
